@@ -30,7 +30,7 @@ Built with **Next.js**, **MapLibre GL**, **FastAPI**, and **Python**, it's desig
 
 ---
 
-## ⚡ Quick Start (Docker or Podman)
+## ⚡ Quick Start
 
 Windows portable version.
 Download the .zip from releases.
