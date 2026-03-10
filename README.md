@@ -32,17 +32,9 @@ Built with **Next.js**, **MapLibre GL**, **FastAPI**, and **Python**, it's desig
 
 ## ⚡ Quick Start (Docker or Podman)
 
-```bash
-git clone https://github.com/BigBodyCobain/Shadowbroker.git
-cd Shadowbroker
-./compose.sh up -d
-```
-
-Open `http://localhost:3000` to view the dashboard! *(Requires Docker or Podman)*
-
-`compose.sh` auto-detects `docker compose`, `docker-compose`, `podman compose`, and `podman-compose`.
-If both runtimes are installed, you can force Podman with `./compose.sh --engine podman up -d`.
-Do not append a trailing `.` to that command; Compose treats it as a service name.
+Windows portable version.
+Download the .zip from releases.
+The .exe is in 'dist'.
 
 ---
 
@@ -189,13 +181,6 @@ Do not append a trailing `.` to that command; Compose treats it as a service nam
 | [CARTO Basemaps](https://carto.com) | Dark map tiles | Continuous | No |
 
 ---
-
-## 🚀 Getting Started
-
-Windows portable version.
-Download the .zip from releases.
-The .exe is in 'dist'.
-
 ---
 
 ## 🎛️ Data Layers
